@@ -16,7 +16,7 @@
 	"scripts": {
 		"test": "xo && nyc ava",
 		"release": "np",
-		"build": "del-cli dist && tsc",
+		"build": "npm run build",
 		"prepublishOnly": "npm run build"
 	},
 	"files": [
