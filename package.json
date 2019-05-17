@@ -55,7 +55,7 @@
 	"dependencies": {
 		"array-differ": "^2.0.3",
 		"array-uniq": "^2.0.0",
-		"capture-website": "git://github.com/Salvatore78/capture-website",
+		"capture-website": "github:Salvatore78/capture-website",
 		"date-fns": "^1.30.1",
 		"filenamify": "^3.0.0",
 		"filenamify-url": "^1.0.0",
