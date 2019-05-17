@@ -9,7 +9,6 @@
 		"email": "sindresorhus@gmail.com",
 		"url": "sindresorhus.com"
 	},
-	"main": "dist",
 	"engines": {
 		"node": ">=8"
 	},
@@ -20,7 +19,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"files": [
-		"dist"
+		"index.js"
 	],
 	"keywords": [
 		"page",
